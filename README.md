@@ -2,19 +2,19 @@
 
 ## Find your protein accession in NCBI
 
-**Gene symbol:** HEXA
+Name: Melon, Kris Bernadette S.
 
-**Protein name:** Beta-hexosaminidase subunit alpha isoform 2 preproprotein
+Subject & Section: Cellular and Molecular Biology, Section-B
 
-**Enzyme name:** Beta-hexosaminidase
+Gene Symbol: HEXA
 
-**Protein accession:** NP_000511.2
+Protein name: Beta-hexosaminidase subunit alpha isoform 2 preproprotein
 
-**Organism:** Homo sapiens
+Protein accession: NP_000511.2
 
-**Protein length:** 529 amino acids
+NCBI Reference: https://www.ncbi.nlm.nih.gov/protein/NP_000511.2
 
-**NCBI Reference:** https://www.ncbi.nlm.nih.gov/protein/NP_000511.2
+Date: October 14, 2026
 
 ## Function
 
