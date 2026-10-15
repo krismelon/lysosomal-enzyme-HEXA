@@ -26,13 +26,13 @@ The HEXA gene provides instructions for making the alpha subunit of an enzyme ca
 
 <img width="272" height="501" alt="Screenshot 2026-10-15 212451" src="https://github.com/user-attachments/assets/6285339e-e4e2-41dc-bb70-20bd79c95e7f" />
 
-_Figure 1._ The table showed the number and percentage of each amino acid found in the HEXA protein sequence.
+_Table 1._ The table showed the number and percentage of each amino acid found in the HEXA protein sequence.
 
 # Amino Acid Composition
 
 <img width="2400" height="1350" alt="HEXA_amino_acid_composition" src="https://github.com/user-attachments/assets/a3570945-cbf7-4950-ac36-627962dbbead" />
 
-_Table 1_. The bar graph shows the number of times each amino acid appears in the 529-amino-acid protein sequence. Leucine (L) is the most abundant amino acid, while methionine (M) is the least abundant.
+_Figure 1_. The bar graph shows the number of times each amino acid appears in the 529-amino-acid protein sequence. Leucine (L) is the most abundant amino acid, while methionine (M) is the least abundant.
 
 # Potential N-Glyosylation Sites
 
